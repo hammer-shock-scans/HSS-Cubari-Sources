@@ -4,5 +4,16 @@
   "artist": "Inomaru",
   "author": "Ooi Masakazu",
   "cover": "https://m.media-amazon.com/images/I/81t02LqtrxL.jpg",
-  "chapters": {}
+  "chapters": {
+    "17": {
+      "title": "17",
+      "volume": "",
+      "last_updated": "1775825609",
+      "groups": {
+        "": [
+          "https://catbox.moe/c/b19kgs"
+        ]
+      }
+    }
+  }
 }
