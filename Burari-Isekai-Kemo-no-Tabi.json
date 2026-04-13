@@ -4,5 +4,102 @@
   "artist": "Shinozuka Atsuto",
   "author": "Shinozuka Atsuto",
   "cover": "https://m.media-amazon.com/images/I/B1MIncE+-BL.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1776116299",
+      "groups": {
+        "Hammer Shock Scans": [
+          "https://files.catbox.moe/6xrktx.png",
+          "https://files.catbox.moe/t06k0w.png",
+          "https://files.catbox.moe/2c4urr.png",
+          "https://files.catbox.moe/x0o795.png",
+          "https://files.catbox.moe/bham1o.png",
+          "https://files.catbox.moe/d7hjj6.png",
+          "https://files.catbox.moe/t2rsr7.png",
+          "https://files.catbox.moe/mp04tq.png",
+          "https://files.catbox.moe/7dei95.png",
+          "https://files.catbox.moe/4rsd2v.png",
+          "https://files.catbox.moe/7xx1pa.png",
+          "https://files.catbox.moe/dlfks7.png",
+          "https://files.catbox.moe/78bf83.png",
+          "https://files.catbox.moe/bnlve2.png",
+          "https://files.catbox.moe/5o4oax.png",
+          "https://files.catbox.moe/bad0qb.png",
+          "https://files.catbox.moe/1exebz.png",
+          "https://files.catbox.moe/ykmnz2.png",
+          "https://files.catbox.moe/dn3akc.png",
+          "https://files.catbox.moe/z9gpe1.png",
+          "https://files.catbox.moe/s32jb4.png",
+          "https://files.catbox.moe/y10olh.png",
+          "https://files.catbox.moe/pswrw3.png",
+          "https://files.catbox.moe/r7943s.png",
+          "https://files.catbox.moe/hrx9ah.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1776116317",
+      "groups": {
+        "Hammer Shock Scans": [
+          "https://files.catbox.moe/x9p31s.png",
+          "https://files.catbox.moe/sf5w2j.png",
+          "https://files.catbox.moe/jkmqyz.png",
+          "https://files.catbox.moe/mt3wb8.png",
+          "https://files.catbox.moe/blrm81.png",
+          "https://files.catbox.moe/w0mc7f.png",
+          "https://files.catbox.moe/bn4t3u.png",
+          "https://files.catbox.moe/kp4icw.png",
+          "https://files.catbox.moe/idlzkg.png",
+          "https://files.catbox.moe/gk1cbb.png",
+          "https://files.catbox.moe/gvrra6.png",
+          "https://files.catbox.moe/jltjv7.png",
+          "https://files.catbox.moe/fv4i2g.png",
+          "https://files.catbox.moe/w9ihv4.png",
+          "https://files.catbox.moe/21xwfm.png",
+          "https://files.catbox.moe/gzsosf.png",
+          "https://files.catbox.moe/ssvkz7.png",
+          "https://files.catbox.moe/m7db5c.png",
+          "https://files.catbox.moe/4flh3a.png",
+          "https://files.catbox.moe/p5q5f2.png",
+          "https://files.catbox.moe/3bvdds.png",
+          "https://files.catbox.moe/8aneow.png",
+          "https://files.catbox.moe/ga02yw.png"
+        ]
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1776116335",
+      "groups": {
+        "Hammer Shock Scans": [
+          "https://files.catbox.moe/pdgxrr.png",
+          "https://files.catbox.moe/s64rii.png",
+          "https://files.catbox.moe/g0m7na.png",
+          "https://files.catbox.moe/m0wb9g.png",
+          "https://files.catbox.moe/2noml4.png",
+          "https://files.catbox.moe/hu0f6g.png",
+          "https://files.catbox.moe/0k9ots.png",
+          "https://files.catbox.moe/dlt5fg.png",
+          "https://files.catbox.moe/539erm.png",
+          "https://files.catbox.moe/zse1z1.png",
+          "https://files.catbox.moe/jv080k.png",
+          "https://files.catbox.moe/llb71d.png",
+          "https://files.catbox.moe/zasby5.png",
+          "https://files.catbox.moe/cys4nj.png",
+          "https://files.catbox.moe/0oagw6.png",
+          "https://files.catbox.moe/0wdg3l.png",
+          "https://files.catbox.moe/jkbu5d.png",
+          "https://files.catbox.moe/pnpdu9.png",
+          "https://files.catbox.moe/esdbt6.png",
+          "https://files.catbox.moe/kzo7x5.png",
+          "https://files.catbox.moe/hrnenk.png"
+        ]
+      }
+    }
+  }
 }
