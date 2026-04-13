@@ -4,5 +4,28 @@
   "artist": "Yoshi Izu",
   "author": "Yoshi Izu",
   "cover": "https://m.media-amazon.com/images/I/91vFSR7mzAL.jpg",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "1",
+      "last_updated": "1776116623",
+      "groups": {
+        "Hammer Shock Scans": [
+          "https://files.catbox.moe/2oz05w.png",
+          "https://files.catbox.moe/d250w5.png",
+          "https://files.catbox.moe/ijnxat.png",
+          "https://files.catbox.moe/1fjos4.png",
+          "https://files.catbox.moe/qoaieb.png",
+          "https://files.catbox.moe/qpic9d.png",
+          "https://files.catbox.moe/uk9q0w.png",
+          "https://files.catbox.moe/qdrbrx.png",
+          "https://files.catbox.moe/jsy5iv.png",
+          "https://files.catbox.moe/6pexh2.png",
+          "https://files.catbox.moe/fidu5z.png",
+          "https://files.catbox.moe/tglblp.png",
+          "https://files.catbox.moe/ewgipy.png"
+        ]
+      }
+    }
+  }
 }
