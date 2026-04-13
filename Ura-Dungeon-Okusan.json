@@ -4,40 +4,5 @@
   "artist": "Inomaru",
   "author": "Ooi Masakazu",
   "cover": "https://m.media-amazon.com/images/I/81t02LqtrxL.jpg",
-  "chapters": {
-    "17": {
-      "title": "17",
-      "volume": "",
-      "last_updated": "1775825609",
-      "groups": {
-        "": [
-          "https://files.catbox.moe/149qom.png",
-          "https://files.catbox.moe/8utqi6.png",
-          "https://files.catbox.moe/3y6xl2.png",
-          "https://files.catbox.moe/zjytou.png",
-          "https://files.catbox.moe/yymr38.png",
-          "https://files.catbox.moe/sg8yhj.png",
-          "https://files.catbox.moe/khg6j3.png",
-          "https://files.catbox.moe/zr71v3.png",
-          "https://files.catbox.moe/flz94d.png",
-          "https://files.catbox.moe/4qib1d.png",
-          "https://files.catbox.moe/pmfvk0.png",
-          "https://files.catbox.moe/h8smcg.png",
-          "https://files.catbox.moe/yg3un4.png",
-          "https://files.catbox.moe/kqmwxg.png",
-          "https://files.catbox.moe/22wdcs.png",
-          "https://files.catbox.moe/y45pr9.png",
-          "https://files.catbox.moe/x2bnzq.png",
-          "https://files.catbox.moe/du0h6s.png",
-          "https://files.catbox.moe/lrovbv.png",
-          "https://files.catbox.moe/vvefzq.png",
-          "https://files.catbox.moe/tdxu2o.png",
-          "https://files.catbox.moe/lki9w1.png",
-          "https://files.catbox.moe/nycdrx.png",
-          "https://files.catbox.moe/izp5bl.png",
-          "https://files.catbox.moe/dbvgx4.png"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
