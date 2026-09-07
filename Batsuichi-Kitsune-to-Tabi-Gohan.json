@@ -26,6 +26,28 @@
           "https://files.catbox.moe/ewgipy.png"
         ]
       }
+    },
+    "000": {
+      "title": "Prologue",
+      "volume": "01",
+      "last_updated": "1750669200",
+      "groups": {
+        "hammer_shock": [
+          "https://cdn.imgchest.com/files/DRY0000.png",
+          "https://cdn.imgchest.com/files/DRY0001.png",
+          "https://cdn.imgchest.com/files/DRY0002.png",
+          "https://cdn.imgchest.com/files/DRY0003.png",
+          "https://cdn.imgchest.com/files/DRY0004.png",
+          "https://cdn.imgchest.com/files/DRY0005.png",
+          "https://cdn.imgchest.com/files/DRY0006.png",
+          "https://cdn.imgchest.com/files/DRY0007.png",
+          "https://cdn.imgchest.com/files/DRY0008.png",
+          "https://cdn.imgchest.com/files/DRY0009.png",
+          "https://cdn.imgchest.com/files/DRY0010.png",
+          "https://cdn.imgchest.com/files/DRY0011.png",
+          "https://cdn.imgchest.com/files/DRY0012.png"
+        ]
+      }
     }
   }
 }
