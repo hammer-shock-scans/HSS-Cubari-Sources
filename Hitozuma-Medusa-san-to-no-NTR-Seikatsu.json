@@ -4,5 +4,42 @@
   "artist": "Shaoh",
   "author": "Shaoh",
   "cover": "https://m.media-amazon.com/images/I/717VWI05T+L.jpg",
-  "chapters": {}
+  "chapters": {
+    "001": {
+      "title": "001",
+      "volume": "01",
+      "last_updated": "1730797200",
+      "groups": {
+        "Hammer Shock Scans": [
+          "https://cdn.imgchest.com/files/528c70a35a9d.png",
+          "https://cdn.imgchest.com/files/befdd0ae7e60.png",
+          "https://cdn.imgchest.com/files/0643ea866301.png",
+          "https://cdn.imgchest.com/files/fff177cac823.png",
+          "https://cdn.imgchest.com/files/56a7c5103aa5.png",
+          "https://cdn.imgchest.com/files/a422e7b2a66c.png",
+          "https://cdn.imgchest.com/files/572874aa3d19.png",
+          "https://cdn.imgchest.com/files/a36ec1999940.png",
+          "https://cdn.imgchest.com/files/1e5aa8209c88.png",
+          "https://cdn.imgchest.com/files/897d7f924844.png",
+          "https://cdn.imgchest.com/files/6cbc5b634d1f.png",
+          "https://cdn.imgchest.com/files/527a93f479f9.png",
+          "https://cdn.imgchest.com/files/99150773526a.png",
+          "https://cdn.imgchest.com/files/34aaef00d3e1.png",
+          "https://cdn.imgchest.com/files/0ed26c74c83d.png",
+          "https://cdn.imgchest.com/files/78d873f70319.png",
+          "https://cdn.imgchest.com/files/e50112fd53c2.png",
+          "https://cdn.imgchest.com/files/cf9306c139ee.png",
+          "https://cdn.imgchest.com/files/f0cbe10c718a.png",
+          "https://cdn.imgchest.com/files/7863ecf3d26c.png",
+          "https://cdn.imgchest.com/files/829d22471242.png",
+          "https://cdn.imgchest.com/files/14841129a8ed.png",
+          "https://cdn.imgchest.com/files/37071c0fc733.png",
+          "https://cdn.imgchest.com/files/70dab58a8a8c.png",
+          "https://cdn.imgchest.com/files/5bd0a3a11b69.png",
+          "https://cdn.imgchest.com/files/4b7223cd5c8d.png",
+          "https://cdn.imgchest.com/files/e2a9a7c68d10.png"
+        ]
+      }
+    }
+  }
 }
