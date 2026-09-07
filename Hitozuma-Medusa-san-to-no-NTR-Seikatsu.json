@@ -400,6 +400,16 @@
           "https://cdn.imgchest.com/files/1d73a7db1fd1.png"
         ]
       }
+    },
+    "012.1": {
+      "title": "Hades's Inspection",
+      "volume": "02",
+      "last_updated": "1774861200",
+      "groups": {
+        "Hammer Shock Scans": [
+          "https://cdn.imgchest.com/files/1fa5771f8f6a.png"
+        ]
+      }
     }
   }
 }
