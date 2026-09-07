@@ -5,6 +5,27 @@
   "author": "Yoshi Izu",
   "cover": "https://m.media-amazon.com/images/I/91vFSR7mzAL.jpg",
   "chapters": {
-
+    "000": {
+      "title": "Prologue",
+      "volume": "01",
+      "last_updated": "1750669200",
+      "groups": {
+        "hammer_shock": [
+          "https://cdn.imgchest.com/files/8d3082d95f6a.png",
+          "https://cdn.imgchest.com/files/998ea56c02ab.png",
+          "https://cdn.imgchest.com/files/07bd28a4aa9d.png",
+          "https://cdn.imgchest.com/files/3c4e26e2d52a.png",
+          "https://cdn.imgchest.com/files/f166f71c0497.png",
+          "https://cdn.imgchest.com/files/724b420b6bff.png",
+          "https://cdn.imgchest.com/files/d2e5a15bb42c.png",
+          "https://cdn.imgchest.com/files/398338f6d3a5.png",
+          "https://cdn.imgchest.com/files/9efac7b99b23.png",
+          "https://cdn.imgchest.com/files/a17eb0d86c33.png",
+          "https://cdn.imgchest.com/files/b3be640108e3.png",
+          "https://cdn.imgchest.com/files/f5d16380c885.png",
+          "https://cdn.imgchest.com/files/c1917904b447.png"
+        ]
+      }
+    }
   }
 }
