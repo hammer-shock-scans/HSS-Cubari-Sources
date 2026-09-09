@@ -4,5 +4,53 @@
   "artist": "Inomaru",
   "author": "Mitsunaga Yasunori",
   "cover": "https://m.media-amazon.com/images/I/81CY1h8BP4L.jpg",
-  "chapters": {}
+  "chapters": {
+    "001": {
+      "title": "Encounter! The Warrior Woman Raisa",
+      "volume": "01",
+      "last_updated": "1737414667",
+      "groups": {
+        "Hammer Shock Scans": [
+          "https://cdn.imgchest.com/files/4c8c116ded2c.png",
+          "https://cdn.imgchest.com/files/70d6eae01de1.png",
+          "https://cdn.imgchest.com/files/4ebed11f9669.png",
+          "https://cdn.imgchest.com/files/0dd36527a34d.png",
+          "https://cdn.imgchest.com/files/2585d4086a8f.png",
+          "https://cdn.imgchest.com/files/616b886454cd.png",
+          "https://cdn.imgchest.com/files/715663b2d986.png",
+          "https://cdn.imgchest.com/files/c6f154ec718b.png",
+          "https://cdn.imgchest.com/files/f21a28897133.png",
+          "https://cdn.imgchest.com/files/1bdf6f2b2aa8.png",
+          "https://cdn.imgchest.com/files/a7aa5eac1cbd.png",
+          "https://cdn.imgchest.com/files/6389044ee59d.png",
+          "https://cdn.imgchest.com/files/391a76d944c3.png",
+          "https://cdn.imgchest.com/files/2518ebbef4fd.png",
+          "https://cdn.imgchest.com/files/47b2557b5683.png",
+          "https://cdn.imgchest.com/files/4030d5e244da.png",
+          "https://cdn.imgchest.com/files/0c62749367d5.png",
+          "https://cdn.imgchest.com/files/dac1d99ee6e7.png",
+          "https://cdn.imgchest.com/files/052e064dc83b.png",
+          "https://cdn.imgchest.com/files/e1d853949064.png",
+          "https://cdn.imgchest.com/files/451bcb1dd15a.png",
+          "https://cdn.imgchest.com/files/8bd2ebc2d6e2.png",
+          "https://cdn.imgchest.com/files/2963b9d9bd20.png",
+          "https://cdn.imgchest.com/files/16f77abec1c2.png",
+          "https://cdn.imgchest.com/files/6ae70f1654da.png",
+          "https://cdn.imgchest.com/files/147e471f6ecf.png",
+          "https://cdn.imgchest.com/files/c7b4e442616a.png",
+          "https://cdn.imgchest.com/files/4296f7dfae48.png",
+          "https://cdn.imgchest.com/files/6399b87b4253.png",
+          "https://cdn.imgchest.com/files/19f76b610ff0.png",
+          "https://cdn.imgchest.com/files/88bb71d15be9.png",
+          "https://cdn.imgchest.com/files/90535901473e.png",
+          "https://cdn.imgchest.com/files/39b1a6fc03a9.png",
+          "https://cdn.imgchest.com/files/f21d019f9dbd.png",
+          "https://cdn.imgchest.com/files/253ef927fb4d.png",
+          "https://cdn.imgchest.com/files/264d0c172b2d.png",
+          "https://cdn.imgchest.com/files/44ef6fa2dcc4.png",
+          "https://cdn.imgchest.com/files/4c1e96f041da.png"
+        ]
+      }
+    }
+  }
 }
