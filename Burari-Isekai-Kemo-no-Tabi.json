@@ -105,6 +105,38 @@
         ]
       }
     },
+    "002": {
+      "title": "002",
+      "volume": "01",
+      "last_updated": "1773738000",
+      "groups": {
+        "Hammer Shock Scans": [
+          "https://cdn.imgchest.com/files/13f29d9b2e87.png",
+          "https://cdn.imgchest.com/files/5a7c5d67aa2d.png",
+          "https://cdn.imgchest.com/files/8bdd741e0650.png",
+          "https://cdn.imgchest.com/files/5ea981e28891.png",
+          "https://cdn.imgchest.com/files/1434b3ef8ae9.png",
+          "https://cdn.imgchest.com/files/3b4f4850ea79.png",
+          "https://cdn.imgchest.com/files/1435225de00f.png",
+          "https://cdn.imgchest.com/files/4b0f171acf5e.png",
+          "https://cdn.imgchest.com/files/62dd4ee18bca.png",
+          "https://cdn.imgchest.com/files/7df75b61f8fb.png",
+          "https://cdn.imgchest.com/files/b7cef20ee3f1.png",
+          "https://cdn.imgchest.com/files/1c96f811ba48.png",
+          "https://cdn.imgchest.com/files/8a95f637d47f.png",
+          "https://cdn.imgchest.com/files/144f012ba210.png",
+          "https://cdn.imgchest.com/files/c9e3151378a1.png",
+          "https://cdn.imgchest.com/files/66e03c3aca4c.png",
+          "https://cdn.imgchest.com/files/6232817e9543.png",
+          "https://cdn.imgchest.com/files/6065726020db.png",
+          "https://cdn.imgchest.com/files/ca93f5be40ed.png",
+          "https://cdn.imgchest.com/files/257028ac3d3f.png",
+          "https://cdn.imgchest.com/files/7151e6706ca3.png",
+          "https://cdn.imgchest.com/files/38c5e618cfcf.png",
+          "https://cdn.imgchest.com/files/f570d9c45f52.png"
+        ]
+      }
+    },
     "3": {
       "title": "3",
       "volume": "1",
