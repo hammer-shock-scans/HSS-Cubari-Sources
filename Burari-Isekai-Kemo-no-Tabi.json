@@ -309,6 +309,19 @@
           "https://cdn.imgchest.com/files/2bc00d809d32.png"
         ]
       }
+    },
+    "006.7": {
+      "title": "006.7",
+      "volume": "01",
+      "last_updated": "1779786000",
+      "groups": {
+        "Hammer Shock Scans": [
+          "https://cdn.imgchest.com/files/03d36d7cf796.png",
+          "https://cdn.imgchest.com/files/1c9af89b6340.png",
+          "https://cdn.imgchest.com/files/da6008a6948b.png",
+          "https://cdn.imgchest.com/files/eb0d6da5637d.png"
+        ]
+      }
     }
   }
 }
